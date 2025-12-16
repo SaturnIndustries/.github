@@ -4,6 +4,6 @@
 
 Four developers who play too much block game...
 
-[aze](https://github.com/azecx) | [wildy](https://github.com/alxuk) | [fulgur](https://github.com/pixako0) | [denial](https://github.com/DDenial0)
+[aze](https://github.com/azecx) | [alex](https://github.com/alxuk) | [fulgur](https://github.com/pixako0) | [denial](https://github.com/DDenial0)
 
 
